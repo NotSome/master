@@ -4,4 +4,4 @@
 
 -------------------------------
 
-You probably want to adjust the DX9 path in the project settings.. 
+This wasn't fixed by me yet it's fine to release here enjoy! :D
